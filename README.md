@@ -2,7 +2,7 @@
 
 I work as a full-stack developer in Goiânia, Brasil.
 
-🔭 I’m currently working on a Logistic and transportation software
+🔭 I’m currently working on a transportation and logistics software
 
 🌱 I’m currently learning Node JS frameworks
 
